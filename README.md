@@ -1,5 +1,5 @@
 # ESoWC_Application
-An Application to the EsoWC to improve ADS Toolbox
+An Application to the EsoWC to improve ADC Toolbox
 
 ##Aim
 
