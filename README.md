@@ -15,4 +15,6 @@ Integration with the Wekeo HDA API
 
 These have been detailed in the application and some example are here in jupyter notebooks 
 
+Interaction - The selecting to refine graph by brushing or click on an area
 
+EDA - The animation of comparing dataset over time similar to Gapminder Wealth of Nations 
